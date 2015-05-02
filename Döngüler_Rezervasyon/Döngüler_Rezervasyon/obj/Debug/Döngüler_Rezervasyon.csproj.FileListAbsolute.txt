@@ -1,0 +1,9 @@
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_Rezervasyon\Döngüler_Rezervasyon\bin\Debug\Döngüler_Rezervasyon.exe.config
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_Rezervasyon\Döngüler_Rezervasyon\bin\Debug\Döngüler_Rezervasyon.exe
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_Rezervasyon\Döngüler_Rezervasyon\bin\Debug\Döngüler_Rezervasyon.pdb
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_Rezervasyon\Döngüler_Rezervasyon\obj\Debug\Döngüler_Rezervasyon.csprojResolveAssemblyReference.cache
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_Rezervasyon\Döngüler_Rezervasyon\obj\Debug\Döngüler_Rezervasyon.Form1.resources
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_Rezervasyon\Döngüler_Rezervasyon\obj\Debug\Döngüler_Rezervasyon.Properties.Resources.resources
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_Rezervasyon\Döngüler_Rezervasyon\obj\Debug\Döngüler_Rezervasyon.csproj.GenerateResource.Cache
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_Rezervasyon\Döngüler_Rezervasyon\obj\Debug\Döngüler_Rezervasyon.exe
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_Rezervasyon\Döngüler_Rezervasyon\obj\Debug\Döngüler_Rezervasyon.pdb

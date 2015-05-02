@@ -1,0 +1,9 @@
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_Faktöriyel\Döngüler_Faktöriyel\bin\Debug\Döngüler_Faktöriyel.exe.config
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_Faktöriyel\Döngüler_Faktöriyel\obj\Debug\Döngüler_Faktöriyel.csprojResolveAssemblyReference.cache
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_Faktöriyel\Döngüler_Faktöriyel\obj\Debug\Döngüler_Faktöriyel.Form1.resources
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_Faktöriyel\Döngüler_Faktöriyel\obj\Debug\Döngüler_Faktöriyel.Properties.Resources.resources
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_Faktöriyel\Döngüler_Faktöriyel\obj\Debug\Döngüler_Faktöriyel.csproj.GenerateResource.Cache
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_Faktöriyel\Döngüler_Faktöriyel\bin\Debug\Döngüler_Faktöriyel.exe
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_Faktöriyel\Döngüler_Faktöriyel\bin\Debug\Döngüler_Faktöriyel.pdb
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_Faktöriyel\Döngüler_Faktöriyel\obj\Debug\Döngüler_Faktöriyel.exe
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_Faktöriyel\Döngüler_Faktöriyel\obj\Debug\Döngüler_Faktöriyel.pdb

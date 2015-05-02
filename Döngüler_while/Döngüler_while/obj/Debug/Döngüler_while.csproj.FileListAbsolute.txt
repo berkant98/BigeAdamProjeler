@@ -1,0 +1,9 @@
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_while\Döngüler_while\bin\Debug\Döngüler_while.exe.config
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_while\Döngüler_while\bin\Debug\Döngüler_while.exe
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_while\Döngüler_while\bin\Debug\Döngüler_while.pdb
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_while\Döngüler_while\obj\Debug\Döngüler_while.csprojResolveAssemblyReference.cache
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_while\Döngüler_while\obj\Debug\Döngüler_while.Form1.resources
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_while\Döngüler_while\obj\Debug\Döngüler_while.Properties.Resources.resources
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_while\Döngüler_while\obj\Debug\Döngüler_while.csproj.GenerateResource.Cache
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_while\Döngüler_while\obj\Debug\Döngüler_while.exe
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Döngüler_while\Döngüler_while\obj\Debug\Döngüler_while.pdb

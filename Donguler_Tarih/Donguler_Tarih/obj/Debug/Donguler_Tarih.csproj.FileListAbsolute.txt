@@ -1,0 +1,9 @@
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Donguler_Tarih\Donguler_Tarih\bin\Debug\Donguler_Tarih.exe.config
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Donguler_Tarih\Donguler_Tarih\obj\Debug\Donguler_Tarih.csprojResolveAssemblyReference.cache
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Donguler_Tarih\Donguler_Tarih\obj\Debug\Donguler_Tarih.Form1.resources
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Donguler_Tarih\Donguler_Tarih\obj\Debug\Donguler_Tarih.Properties.Resources.resources
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Donguler_Tarih\Donguler_Tarih\obj\Debug\Donguler_Tarih.csproj.GenerateResource.Cache
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Donguler_Tarih\Donguler_Tarih\bin\Debug\Donguler_Tarih.exe
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Donguler_Tarih\Donguler_Tarih\bin\Debug\Donguler_Tarih.pdb
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Donguler_Tarih\Donguler_Tarih\obj\Debug\Donguler_Tarih.exe
+c:\users\tugba.turker\documents\visual studio 2013\Projects\Donguler_Tarih\Donguler_Tarih\obj\Debug\Donguler_Tarih.pdb
