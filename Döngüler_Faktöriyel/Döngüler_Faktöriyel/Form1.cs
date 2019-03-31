@@ -22,7 +22,9 @@ namespace Döngüler_Faktöriyel
             int toplam = 1;
             int girilenSayi = Convert.ToInt32(txtDeger.Text);
             for (int i = 1; i <= girilenSayi; i++)
+            {
                 toplam = toplam * i;
+            }
             MessageBox.Show(toplam.ToString());
         }
 
